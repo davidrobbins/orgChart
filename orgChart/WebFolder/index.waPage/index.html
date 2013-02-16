@@ -7,7 +7,7 @@
 	<meta name="wakanda-version" content="Dev build 0.127386"/>
 		<meta name="wakanda-build" content="0.127386"/>
 		<meta name="WAF.config.loadCSS" id="waf-palette" content="/walib/WAF/widget/palette/css/widget-palette-default.css"/>
-		<meta data-type="dataSource" data-lib="WAF" data-source="Employee" data-source-type="dataClass" data-dataType="string" data-autoLoad="false" name="WAF.config.datasources" data-id="employee" content="employee"/>
+		<meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="Employee" data-lib="WAF" data-id="employee" data-dataType="string" data-autoLoad="false" content="employee"/>
 		<meta name="WAF.config.loadCSS" id="waf-interface-css" content="styles/index.css"/>
 		<meta name="WAF.config.loadCSS" id="waf-project-css" content="/application.css"/>
 <meta name="WAF.config.loadJS" id="waf-script" content="scripts/index.js"/>
@@ -15,7 +15,8 @@
 
 <body id="waf-body" data-workspace-width="0" data-workspace-orientation="portrait" data-workspace-height="0" data-viewport-width="device-width" data-viewport-minimum-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-initial-scale="1.0" data-type="document" data-theme="default" data-rpc-validation="false" data-rpc-namespace="rpc" data-rpc-activate="false" data-platform="desktop" data-lib="WAF" data-group="[]" data-apple-meta-tags-status-bar="default" class="default" style="visibility:hidden;">
 	<div id="login1" data-user-label="User: " data-user-display="Signed in as " data-type="login" data-password-label="Password: " data-logout-action="Logout" data-login-title="Login Dialog" data-login-button="Login" data-login-action="Login" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-login default inherited  "></div>
-	<div id="dataGrid1" data-type="dataGrid" data-lib="WAF" class="waf-widget waf-dataGrid default inherited  " data-label-position="top" data-selection-mode="single" data-display-error="true" data-footer-text="item(s)" data-column="[{'sourceAttID':'fullName','colID':'fullName','width':'202','title':'Name'},{'sourceAttID':'email','colID':'email','width':'180','title':'Email'}]" data-constraint-left="true" data-label="" data-constraint-top="true" data-binding="employee" data-readOnly="true"></div>
+	<div id="dataGrid1" data-type="dataGrid" data-selection-mode="single" data-readOnly="true" data-lib="WAF" data-label-position="top" data-label="" data-footer-text="item(s)" data-display-error="true" data-constraint-top="true" data-constraint-left="true" data-column="[{'sourceAttID':'fullName','colID':'fullName','width':'190','title':'Name'},{'sourceAttID':'reportsTo.fullName','colID':'reportsTo_fullName','width':'190','title':'Reports%20To'}]" data-binding="employee" class="waf-widget waf-dataGrid default inherited  "></div>
+		<div id="richText1" data-type="richText" data-lib="WAF" class="waf-widget waf-richText default inherited  " data-autoWidth="true" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-label="" data-constraint-top="true">ACME Org Chart - Recursive Relation Attributes</div>
 		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
 	</body>
 </html>
