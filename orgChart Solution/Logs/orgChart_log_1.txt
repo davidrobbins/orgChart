@@ -1,0 +1,200 @@
+2013-02-15 14:15:04 [com.wakanda-software.orgChart] INFO - Opening the solution
+2013-02-15 14:15:04 [com.wakanda-software.orgChart] INFO - Opening the users and groups directory
+2013-02-15 14:15:05 [com.wakanda-software.orgChart] INFO - Users and groups directory opened (duration: 43 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Opening the project
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 7 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Project opened (duration: 19 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Opening the project
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart] INFO - Solution opened (duration: 100 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart] INFO - Starting the solution
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Starting the project
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Starting the HTTP server
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - HTTP server started (duration: 34 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Project started (duration: 86 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the project
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the HTTP server
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - HTTP server started (duration: 39 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project started (duration: 97 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Executing the bootstrap(s)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.orgChart] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2013-02-15 14:15:05 [com.wakanda-software.orgChart] INFO - Solution started (duration: 203 ms)
+2013-02-15 14:15:21 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 14:15:22 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 306 ms)
+2013-02-15 14:15:22 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:15:22 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 10 ms)
+2013-02-15 14:19:14 [com.wakanda-software.orgChart] INFO - Stopping the solution
+2013-02-15 14:19:14 [com.wakanda-software.orgChart.orgChart] INFO - Stopping the project
+2013-02-15 14:19:16 [com.wakanda-software.orgChart.orgChart] INFO - Project stopped (duration: 2075 ms)
+2013-02-15 14:19:16 [com.wakanda-software.orgChart.ServerAdmin] INFO - Stopping the project
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project stopped (duration: 2079 ms)
+2013-02-15 14:19:18 [com.wakanda-software.orgChart] INFO - Solution stopped (duration: 4155 ms)
+2013-02-15 14:19:18 [com.wakanda-software.orgChart] INFO - Closing the solution
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.orgChart] INFO - Closing the project
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 405 ms)
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.orgChart] INFO - Project closed (duration: 405 ms)
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.ServerAdmin] INFO - Closing the project
+2013-02-15 14:19:18 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-15 14:19:19 [com.wakanda-software.orgChart] INFO - Solution closed (duration: 814 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Opening the solution
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Opening the users and groups directory
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Users and groups directory opened (duration: 38 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Opening the project
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 6 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Project opened (duration: 19 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Opening the project
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Solution opened (duration: 93 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Starting the solution
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Starting the project
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Starting the HTTP server
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - HTTP server started (duration: 34 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Project started (duration: 83 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the project
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the HTTP server
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project started (duration: 93 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Executing the bootstrap(s)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.orgChart] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2013-02-15 14:21:09 [com.wakanda-software.orgChart] INFO - Solution started (duration: 196 ms)
+2013-02-15 14:25:39 [com.wakanda-software.orgChart] INFO - Stopping the solution
+2013-02-15 14:25:39 [com.wakanda-software.orgChart.orgChart] INFO - Stopping the project
+2013-02-15 14:25:41 [com.wakanda-software.orgChart.orgChart] INFO - Project stopped (duration: 1075 ms)
+2013-02-15 14:25:41 [com.wakanda-software.orgChart.ServerAdmin] INFO - Stopping the project
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project stopped (duration: 2077 ms)
+2013-02-15 14:25:43 [com.wakanda-software.orgChart] INFO - Solution stopped (duration: 3154 ms)
+2013-02-15 14:25:43 [com.wakanda-software.orgChart] INFO - Closing the solution
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.orgChart] INFO - Closing the project
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 404 ms)
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.orgChart] INFO - Project closed (duration: 405 ms)
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.ServerAdmin] INFO - Closing the project
+2013-02-15 14:25:43 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-15 14:25:43 [com.wakanda-software.orgChart] INFO - Solution closed (duration: 814 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart] INFO - Opening the solution
+2013-02-15 14:26:37 [com.wakanda-software.orgChart] INFO - Opening the users and groups directory
+2013-02-15 14:26:37 [com.wakanda-software.orgChart] INFO - Users and groups directory opened (duration: 37 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Opening the project
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 7 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Project opened (duration: 20 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.ServerAdmin] INFO - Opening the project
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart] INFO - Solution opened (duration: 95 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart] INFO - Starting the solution
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Starting the project
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Starting the HTTP server
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - HTTP server started (duration: 33 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.orgChart] INFO - Project started (duration: 82 ms)
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the project
+2013-02-15 14:26:37 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the HTTP server
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.ServerAdmin] INFO - HTTP server started (duration: 41 ms)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project started (duration: 96 ms)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.orgChart] INFO - Executing the bootstrap(s)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.orgChart] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart.ServerAdmin] INFO - Bootstrap(s) executed (duration: 13 ms)
+2013-02-15 14:26:38 [com.wakanda-software.orgChart] INFO - Solution started (duration: 200 ms)
+2013-02-15 14:40:39 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 14:40:39 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 306 ms)
+2013-02-15 14:40:39 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:40:39 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 11 ms)
+2013-02-15 14:57:56 [com.wakanda-software.orgChart] INFO - Stopping the solution
+2013-02-15 14:57:56 [com.wakanda-software.orgChart.orgChart] INFO - Stopping the project
+2013-02-15 14:57:58 [com.wakanda-software.orgChart.orgChart] INFO - Project stopped (duration: 2079 ms)
+2013-02-15 14:57:58 [com.wakanda-software.orgChart.ServerAdmin] INFO - Stopping the project
+2013-02-15 14:58:00 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project stopped (duration: 2083 ms)
+2013-02-15 14:58:00 [com.wakanda-software.orgChart] INFO - Solution stopped (duration: 4163 ms)
+2013-02-15 14:58:00 [com.wakanda-software.orgChart] INFO - Closing the solution
+2013-02-15 14:58:00 [com.wakanda-software.orgChart.orgChart] INFO - Closing the project
+2013-02-15 14:58:00 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 14:58:01 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 406 ms)
+2013-02-15 14:58:01 [com.wakanda-software.orgChart.orgChart] INFO - Project closed (duration: 407 ms)
+2013-02-15 14:58:01 [com.wakanda-software.orgChart.ServerAdmin] INFO - Closing the project
+2013-02-15 14:58:01 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-02-15 14:58:01 [com.wakanda-software.orgChart] INFO - Solution closed (duration: 816 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Opening the solution
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Opening the users and groups directory
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Users and groups directory opened (duration: 19 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Opening the project
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 6 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Project opened (duration: 18 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Opening the project
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Solution opened (duration: 74 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Starting the solution
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Starting the project
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Starting the HTTP server
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - HTTP server started (duration: 34 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Project started (duration: 85 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the project
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the HTTP server
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project started (duration: 93 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Executing the bootstrap(s)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.orgChart] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart.ServerAdmin] INFO - Bootstrap(s) executed (duration: 11 ms)
+2013-02-15 14:58:06 [com.wakanda-software.orgChart] INFO - Solution started (duration: 198 ms)
+2013-02-15 15:13:48 [com.wakanda-software.orgChart] INFO - Stopping the solution
+2013-02-15 15:13:48 [com.wakanda-software.orgChart.orgChart] INFO - Stopping the project
+2013-02-15 15:13:49 [com.wakanda-software.orgChart.orgChart] INFO - Project stopped (duration: 1077 ms)
+2013-02-15 15:13:49 [com.wakanda-software.orgChart.ServerAdmin] INFO - Stopping the project
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project stopped (duration: 2083 ms)
+2013-02-15 15:13:51 [com.wakanda-software.orgChart] INFO - Solution stopped (duration: 3161 ms)
+2013-02-15 15:13:51 [com.wakanda-software.orgChart] INFO - Closing the solution
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.orgChart] INFO - Closing the project
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 409 ms)
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.orgChart] INFO - Project closed (duration: 411 ms)
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.ServerAdmin] INFO - Closing the project
+2013-02-15 15:13:51 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project closed (duration: 4 ms)
+2013-02-15 15:13:52 [com.wakanda-software.orgChart] INFO - Solution closed (duration: 824 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Opening the solution
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Opening the users and groups directory
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Users and groups directory opened (duration: 33 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Opening the project
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Opening the database
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Database opened (duration: 6 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Project opened (duration: 22 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Opening the project
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Solution opened (duration: 94 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Starting the solution
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Starting the project
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Starting the HTTP server
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - HTTP server started (duration: 36 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Project started (duration: 110 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the project
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Starting the HTTP server
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project started (duration: 97 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Executing the bootstrap(s)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.orgChart] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart.ServerAdmin] INFO - Bootstrap(s) executed (duration: 28 ms)
+2013-02-15 16:54:27 [com.wakanda-software.orgChart] INFO - Solution started (duration: 246 ms)
+2013-02-15 17:06:41 [com.wakanda-software.orgChart.orgChart.JS4D] ERROR - [1] Error on line 20. SyntaxError: Unexpected EOF, HTTP connection handler
+2013-02-15 17:06:41 [com.wakanda-software.orgChart.orgChart.JS4D] ERROR - [2] Error evaluating javascript file:///Users/DavidRobbins/github/orgChart/orgChart/serverTest.js, HTTP connection handler
+2013-02-15 17:13:40 [com.wakanda-software.orgChart] INFO - Stopping the solution
+2013-02-15 17:13:40 [com.wakanda-software.orgChart.orgChart] INFO - Stopping the project
+2013-02-15 17:13:41 [com.wakanda-software.orgChart.orgChart] INFO - Project stopped (duration: 1080 ms)
+2013-02-15 17:13:41 [com.wakanda-software.orgChart.ServerAdmin] INFO - Stopping the project
+2013-02-15 17:13:43 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project stopped (duration: 2079 ms)
+2013-02-15 17:13:43 [com.wakanda-software.orgChart] INFO - Solution stopped (duration: 3160 ms)
+2013-02-15 17:13:43 [com.wakanda-software.orgChart] INFO - Closing the solution
+2013-02-15 17:13:43 [com.wakanda-software.orgChart.orgChart] INFO - Closing the project
+2013-02-15 17:13:43 [com.wakanda-software.orgChart.orgChart] INFO - Closing the database
+2013-02-15 17:13:44 [com.wakanda-software.orgChart.orgChart] INFO - Database closed (duration: 406 ms)
+2013-02-15 17:13:44 [com.wakanda-software.orgChart.orgChart] INFO - Project closed (duration: 408 ms)
+2013-02-15 17:13:44 [com.wakanda-software.orgChart.ServerAdmin] INFO - Closing the project
+2013-02-15 17:13:44 [com.wakanda-software.orgChart.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2013-02-15 17:13:44 [com.wakanda-software.orgChart] INFO - Solution closed (duration: 818 ms)

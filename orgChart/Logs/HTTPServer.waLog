@@ -1,0 +1,81 @@
+#Version: 1.0
+#Software: Wakanda/Dev build 0.125861 (MacOS-x64)
+#Date: 2013-02-15 14:16:26
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2013-02-15 22:16:26 22:16:26 7
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:16:26 22:16:26 8
+227 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:16:57 22:16:57 7
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:17:27 22:17:27 6
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:17:35 22:17:35 8
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:17:43 22:17:43 7
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:17:54 22:17:54 7
+116 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:18:02 22:18:02 7
+116 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:18:07 22:18:07 7
+116 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=638CBF78997946FCB9083610D54226FB" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:18:12 22:18:12 7
+#Version: 1.0
+#Software: Wakanda/Dev build 0.125861 (MacOS-x64)
+#Date: 2013-02-15 14:21:53
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2013-02-15 22:21:53 22:21:53 6
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=1F97ED83E38C4DFE9294FC4894D02CD3" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:21:53 22:21:53 7
+#Version: 1.0
+#Software: Wakanda/Dev build 0.125861 (MacOS-x64)
+#Date: 2013-02-15 14:26:41
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2013-02-15 22:26:41 22:26:41 7
+2 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:26:41 22:26:41 7
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:31:42 22:31:42 8
+2050 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:32:31 22:32:31 7
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:33:12 22:33:12 6
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:34:00 22:34:00 13
+2073 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:34:14 22:34:14 7
+209 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:56:45 22:56:45 9
+2 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=218DA54318074AEFAFEEF6E964E692BE" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:56:56 22:56:56 11
+#Version: 1.0
+#Software: Wakanda/Dev build 0.125861 (MacOS-x64)
+#Date: 2013-02-15 14:58:13
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2013-02-15 22:58:13 22:58:13 7
+2 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:58:13 22:58:13 10
+2080 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:58:34 22:58:34 10
+2080 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 22:59:10 22:59:10 10
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:01:14 23:01:14 10
+280 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:02:16 23:02:16 11
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:02:39 23:02:39 10
+280 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:03:28 23:03:28 10
+272 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:04:10 23:04:10 10
+275 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:05:02 23:05:02 9
+275 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:05:49 23:05:49 10
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:06:57 23:06:57 10
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:12:07 23:12:07 10
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=FE1F885A5AD2445E8B67CDF0FD600474" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-15 23:13:12 23:13:12 10
+#Version: 1.0
+#Software: Wakanda/Dev build 0.125861 (MacOS-x64)
+#Date: 2013-02-15 16:59:55
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /rest/$directory/login/ - /rest/$directory/login/ 2013-02-16 00:59:55 00:59:55 7
+280 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 00:59:55 00:59:55 14
+2149 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:00:22 01:00:22 11
+9 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:04:21 01:04:21 10
+280 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:05:05 01:05:05 11
+206 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:05:19 01:05:19 10
+2149 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:05:47 01:05:47 13
+206 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:06:12 01:06:12 10
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:06:20 01:06:20 10
+423 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2013-02-16 01:06:41 01:06:41 8
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:07:10 01:07:10 13
+275 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:07:21 01:07:21 13
+4 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:08:08 01:08:08 14
+553 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:08:59 01:08:59 10
+275 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:09:34 01:09:34 15
+278 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:09:45 01:09:45 9
+2701 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:10:14 01:10:14 13
+832 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:10:40 01:10:40 11
+553 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:10:50 01:10:50 11
+1663 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:11:59 01:11:59 11
+280 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=AD002A9CFE2A498E9378014B2EDEA985" "127.0.0.1:8081" "" "" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2013-02-16 01:12:19 01:12:19 10
